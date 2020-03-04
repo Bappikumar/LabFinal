@@ -1,0 +1,11 @@
+{
+  "name": "labfinal",
+  "version": "1.0.0",
+  "description": "'A web application which will be building with the help of Node.js RESTful API'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Bappi Kumar'",
+  "license": "ISC"
+}
